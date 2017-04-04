@@ -27,7 +27,6 @@ a=Student()
 a.set_name('nishant')
 a.set_name('shivam')
 a.set_name('vikas')
-print a
 
 results=a.get_names()
 print results
